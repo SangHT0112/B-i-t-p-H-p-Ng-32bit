@@ -1,3 +1,5 @@
+;Bài 23: Hãy kiểm tra các chữ số của số nguyên dương n có tăng dần từ trái sang phải hay không ?
+
 include irvine32.inc ; Bao gồm thư viện Irvine32 để sử dụng các hàm nhập xuất
 
 .data ; Phần khai báo dữ liệu
