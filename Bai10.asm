@@ -8,7 +8,7 @@ ExitProcess proto, dwExitCode:dword
 .data
     n dword ?
     sum dword ?
-    digit dword ?
+    digit dword 10
 
 .code
 main proc
